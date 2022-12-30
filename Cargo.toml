@@ -6,6 +6,8 @@ authors = ["BKSalman"]
 documentation = "https://docs.rs/string_mac"
 repository = "https://github.com/bksalman/string-mac"
 github = ""
+description = "A lazy man's String macro"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
